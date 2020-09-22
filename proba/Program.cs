@@ -12,6 +12,7 @@ namespace proba
         {
             Console.WriteLine("valami");
             Console.WriteLine("fdgg");
+            Console.WriteLine("fdgdg");
         }
     }
 }
